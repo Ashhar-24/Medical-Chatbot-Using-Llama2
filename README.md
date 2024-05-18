@@ -15,3 +15,8 @@
 ```bash
     pip install -r requirements.txt
 ```
+
+To check all the dependencies have been installed, run after creating a `test_installation.py` file
+```bash
+    python test_installation.py
+```
